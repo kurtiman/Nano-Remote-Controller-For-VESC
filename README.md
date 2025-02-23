@@ -1,4 +1,4 @@
-# Nano Remote Controller For VESC
+<b>Nano Remote Controller For VESC</b>  
 This is a compact remote control with 128x32 telemetry rear-mounted display for VESC devices compatible for both regular and goofy
 
 cloned from:  
@@ -47,8 +47,11 @@ It uses both PPM (analog) and UART as control mode for tuning the throttle curve
 
 The remote can add up to 3+ multiple profiles to allow switching between different VESC devices. With a custom VESC library dependency, it runs VESC HW 4.10+ (Tested with HW4.10 and FSESC 6.6 Dual).
 
-The firmware is fully customizable with additional safety function.
-
+<b>The firmware is fully customizable with additional safety function.</b>  
+  
+<picture>
+ <img alt="map 0°" width=50% height=50% src="https://github.com/kurtiman/Nano-Remote-Controller-For-VESC/blob/main/thingverse%20%203322400/images/Setting.png">
+</picture>  <br/><br/>
 
 UPDATED 11/01/2020
 
