@@ -39,6 +39,9 @@ Requires (PPM+UART) on VESC enable.
 https://gitlab.com/deakbannok/controller/
 This is a compact remote control with 128x32 telemetry rear-mounted display for VESC devices compatible for both regular and goofy.
 
+<picture>
+ <img alt="map 0°" width=50% height=50% src="https://github.com/kurtiman/Nano-Remote-Controller-For-VESC/blob/main/thingverse%20%203322400/images/IMG_20200105_150124.jpg">
+</picture>  <br/><br/>
   
 It uses both PPM (analog) and UART as control mode for tuning the throttle curve and ramping time.
 
