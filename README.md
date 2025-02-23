@@ -1,5 +1,29 @@
+<h1 style="font-size:14px; ">None of this was designed by me, I saved it all for my reference.</h1>
+
+------------------------------------------------------------------  
+
 <b>Nano Remote Controller For VESC</b>  
 This is a compact remote control with 128x32 telemetry rear-mounted display for VESC devices compatible for both regular and goofy
+
+------------------------------------------------------------------  
+
+https://www.reddit.com/r/ElectricSkateboarding/comments/10p4bdr/cheap_diy_remote_controller_for_vesc/  
+
+Hi, this is DIY project based on Arduino and nRF24 that I have been developed nearly 5 years ago and continue to improve its design and stability.
+It is cheap, compact, simple to setup and reliable for ambi-handed.
+Most of the components are easy to find and buy online.
+The remote can add up to 3+ multiple profiles to allow switching between different receivers.
+With a custom VESC library dependency, it runs VESC HW 4.10+ (Tested with HW4.10 and FSESC 6.6 Dual).
+Key futures:
+- Cheap and simple.
+- Support 3+ profiles.
+- Cruise Control (PID).
+- Speed Limit (PIDs method without VESC configuration).
+- Dual input support.
+
+Safety futures:
+In case of lost signal, the receiver will slowly apply brakes if it detects RPM over 2kph.
+
 
 cloned from:  
 ------------------------------------------------------------------  
